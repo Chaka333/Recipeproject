@@ -1,0 +1,13 @@
+/* styles.css */
+.h1{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue
+
+}
+.h1, 
+.p{
+    color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
